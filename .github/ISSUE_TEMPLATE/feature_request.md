@@ -14,5 +14,4 @@ assignees: ''
 **Additional Information**
 - **Priority:** [High/Medium/Low]
 - **Dependencies:** [Other tasks, modules, etc.]
-- **Deadline:** [Date or Sprint]
 - **Attachments:** [Screenshots, diagrams, etc.]
