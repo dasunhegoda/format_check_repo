@@ -1,6 +1,6 @@
 ---
-name: New feature request
-about: Suggest a new feature to be included in the sprint
+name: Feature request
+about: Suggest a feature to be included in the sprint
 title: ''
 labels: ''
 assignees: ''
