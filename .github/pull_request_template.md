@@ -1,11 +1,11 @@
-## **Purpose of This Change**
+## **Why is this change needed?**
 
-## **Implementation Details**
+## **How was the change implemented?**
 
-## **New Unit Tests**
+## **New unit tests**
 
-## **Unit Tests Executed by the Author**
+## **Unit tests executed by the author**
 
-## **Manual Testing Instructions**
+## **How to test manually**
 
-## **Related Links**
+## **Related links**
